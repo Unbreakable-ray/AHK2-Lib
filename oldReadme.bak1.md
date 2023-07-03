@@ -2,9 +2,7 @@
 
 <img src="./sub-readme/readme-data/ahklib.png" alt="ahklib" style="zoom:33%;" />
 
-Punch of libraries I write it feels free to do whatever you like Under AGPL.3v. (only apply for .AHk files).
-
-Pleas note AGPL.3V DOES NOT APPLY to images 
+Punch of libraries I write it feels free to do whatever you like Under AGPL.3v
 
 <br>
 
@@ -28,7 +26,5 @@ Simple Gui to Enable, Disable Debug Mode.
 ![image-20230701203332048](./sub-readme/readme-data/image-20230701203332048.png)
 
 
-
-
-Auto-merged at 03:44:19 AM 2023/07/03	
+Auto-merged at 08:34:10 PM 2023/07/01	
 
